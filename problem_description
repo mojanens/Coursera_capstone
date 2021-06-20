@@ -1,0 +1,6 @@
+Problem description:
+My client wants to open a new yoga studio in Paris. The question is to find the best place: The neighborhood that is in other means similar to the ones with a yoga studio 
+trending high in Foursquare, but would have the least yoga studios (or none at all).
+
+Data used to solve the problem:
+Foursquare Paris data together with data of Parisian districts: https://en.wikipedia.org/wiki/Quarters_of_Paris
